@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="doc.xsl"?>
+<razvan>
+<image1>
+   <src>images/uaic.jpg</src>
+   <height>300</height>
+   <width>300</width>
+   <title>bla bla bla</title>
+</image1>
+
+<image2>
+   <src>images/lemon.jpg</src>
+   <height>300</height>
+   <width>300</width>
+   <title>bla bla bla</title>
+</image2>
+</razvan>
